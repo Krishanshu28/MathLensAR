@@ -1,1 +1,3 @@
-Add a Vuforia Package Before running the file.
+     
+Tip:      
+Add a Vuforia Package in the project Before running the file.
